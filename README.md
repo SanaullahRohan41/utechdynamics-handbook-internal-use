@@ -1,6 +1,4 @@
-# utechdynamics-handbook
-
-This repository Defines strategy , everyone's responsibility, team collaboration, policies etc. 
+# utechdynamics-handbook 
 
 Using a private GitHub repository for internal documentation, because:
 
