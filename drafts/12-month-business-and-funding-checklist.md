@@ -1,6 +1,6 @@
 
 # 12-month readiness programme, not a funding programme. The objective is that by the end of the year UTech can credibly say:
-*text* Google doc“We are a small, documented, tax-compliant software business with real customers, real revenue, project history, banking history, and a clear use for capital if capital becomes necessary.”
+*Google doc“We are a small, documented, tax-compliant software business with real customers, real revenue, project history, banking history, and a clear use for capital if capital becomes necessary.”*
 That is much more valuable than simply collecting registrations.
 One current point worth keeping in mind: Bangladesh Bank's 2026 CMSME framework includes multiple refinance/financing facilities, so there should continue to be financing routes to investigate as UTech matures. (BB)
 UTech Dynamics — 12-Month Business & Funding Readiness Checklist
