@@ -3,18 +3,22 @@
 ## Google doc“We are a small, documented, tax-compliant software business with real customers, real revenue, project history, banking history, and a clear use for capital if capital becomes necessary.”
 ### ~That is much more valuable than simply collecting registrations.~
 #### One current point worth keeping in mind: Bangladesh Bank's 2026 CMSME framework includes multiple refinance/financing facilities, so there should continue to be financing routes to investigate as UTech matures. (BB)
+
 **UTech Dynamics — 12-Month Business & Funding Readiness Checklist**
+
 Starting point: September 2026
+
 I would divide the year into four phases:
-Phase
-Months
-Main objective
-Foundation
-1–3
-Make UTech administratively clean
-Commercial proof
-4–6
-Build customer/revenue evidence
+```
+I would divide the year into four phases:
+Phase |                 Months |         Main objective|
+Foundation               1-3             Make UTech administratively clean
+Commercial proof         4-6             Build customer/revenue evidence
+Build customer/revenue   7-9             Become procurement/bank ready
+evidence
+Funding optionality     10-12            Become genuinely fundable without needing funding
+
+
 Institutional readiness
 7–9
 Become procurement/bank ready
@@ -23,6 +27,7 @@ Funding optionality
 Become genuinely fundable without needing funding
 
 
+```
 
 MONTH 1 — September 2026
 Establish the baseline
