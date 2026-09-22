@@ -6,7 +6,7 @@ One current point worth keeping in mind: Bangladesh Bank's 2026 CMSME framework 
 UTech Dynamics — 12-Month Business & Funding Readiness Checklist
 Starting point: September 2026
 I would divide the year into four phases:
-Phase
+*Phase*
 Months
 Main objective
 Foundation
